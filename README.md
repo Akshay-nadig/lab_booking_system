@@ -103,7 +103,7 @@ AI-based intelligent conflict detection and booking suggestions
 Developer Information
 
 Project Title: College Lab Booking System
-Developed By: Dhruva D
+Developed By: Akshay Nadig
 College: Vidya Vardhaka College of Engineering
 Role: Full Stack Web Developer
 Technologies: PHP, MySQL, HTML, CSS, JavaScript
